@@ -19,4 +19,4 @@ In this project, we'll set up an efficient data processing pipeline. Starting wi
 ---
 
 # ETL Method
-![data flowchart]![data flowchart supremarket](https://github.com/Witpetch/supermarket-project/assets/126334722/02371c86-9bde-47a2-b294-e7173a485346)
+![data flowchart supremarket](https://github.com/Witpetch/supermarket-project/assets/126334722/02371c86-9bde-47a2-b294-e7173a485346)
